@@ -11,7 +11,7 @@
 - [Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=BFCPSALE24)
 
 ## 📫 How to reach me
-- [[LinkedIn](https://www.linkedin.com/in/islamostafa/)]
+- [[My LinkedIn](https://www.linkedin.com/in/islamostafa/)
 - [Personal website/blog] Soon...
 
 
