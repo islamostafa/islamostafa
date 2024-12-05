@@ -10,7 +10,7 @@ Now, I'm channeling my passion for technology into learning Java and software en
 
 
 ## 🔭 Projects 
-- [Project 1 - The Best Seller Products](https://www.thebestsellerproducts.com/)
+- [The Best Seller Products](https://www.thebestsellerproducts.com/)
 
 
 ## 🌱 I'm currently learning
