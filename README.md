@@ -9,7 +9,7 @@ With years of hands-on experience in the IT industry, I've developed a strong fo
 Now, I'm channeling my passion for technology into learning Java and software engineering principles. I'm thrilled about the possibilities this new direction offers and am committed to mastering the art of creating efficient, robust software solutions.
 
 
-## 🔭 I'm currently working on
+## 🔭 Projects 
 - [Project 1 - The Best Seller Products](https://www.thebestsellerproducts.com/)
 
 
