@@ -3,7 +3,7 @@
 [Brief introduction about yourself]
 
 ## 🔭 I'm currently working on
-- [Project 1]
+- [Project 1 - The Best Seller Products](https://www.thebestsellerproducts.com/)
 - [Project 2]
 
 ## 🌱 I'm currently learning
@@ -12,7 +12,6 @@
 
 ## 📫 How to reach me
 - [My LinkedIn](https://www.linkedin.com/in/islamostafa/)
-- [Personal website/blog] Soon...
 
 
 ## 📊 GitHub Stats
