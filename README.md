@@ -8,7 +8,7 @@
 
 ## 🌱 I'm currently learning
 - [MSc Computer Science with The University of Liverpool ]
-- [Java]
+- [Java](https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=BFCPSALE24)
 
 ## 📫 How to reach me
 - [[LinkedIn](https://www.linkedin.com/in/islamostafa/)]
