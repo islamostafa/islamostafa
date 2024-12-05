@@ -7,7 +7,7 @@
 - [Project 2]
 
 ## 🌱 I'm currently learning
-- [MSc Computer Science with The University of Liverpoo](https://online.liverpool.ac.uk/programmes/msc-computer-science/)
+- [MSc Computer Science with The University of Liverpool](https://online.liverpool.ac.uk/programmes/msc-computer-science/)
 - [Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=BFCPSALE24)
 
 ## 📫 How to reach me
