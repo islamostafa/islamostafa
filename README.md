@@ -1,4 +1,4 @@
-# Hello, I'm [Islam Mostafa] 👋
+# Hello, I'm Islam Mostafa 👋
 
 I'm an IT professional with extensive experience in IT support and cloud computing. Currently, I'm on an exciting journey to transition into software engineering, with a focus on Java development.
 
