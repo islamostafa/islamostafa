@@ -1,6 +1,6 @@
 # Hello, I'm Islam Mostafa 👋
 
-I'm an IT professional with extensive experience in IT support and cloud computing. Currently, I'm on an exciting journey to transition into software engineering, with a focus on Java development.
+"I'm an IT professional with over 10 years of experience in IT support, IT infrastructure, and cloud computing. I hold MCSE and CCNA certifications, along with several other Microsoft certificates. Passionate about software engineering, I'm currently expanding my skills in Java development and pursuing an MSc in Computer Science at the University of Liverpool. This academic pursuit supports my transition into the exciting field of software engineering.
 
 ## About Me
 
