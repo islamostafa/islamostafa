@@ -1,6 +1,6 @@
 # Hello, I'm Islam Mostafa 👋
 
-"I'm an IT professional with over 10 years of experience in IT support, IT infrastructure, and cloud computing. I hold MCSE and CCNA certifications, along with several other Microsoft certificates. Passionate about software engineering, I'm currently expanding my skills in Java development and pursuing an MSc in Computer Science at the University of Liverpool. This academic pursuit supports my transition into the exciting field of software engineering.
+I'm an IT professional with over 10 years of experience in IT support, IT infrastructure, and cloud computing. I hold MCSE and CCNA certifications, along with several other Microsoft certificates. Passionate about software engineering, I'm currently expanding my skills in Java development and pursuing an MSc in Computer Science at the University of Liverpool. This academic pursuit supports my transition into the exciting field of software engineering.
 
 ## About Me
 
