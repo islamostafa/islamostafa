@@ -11,7 +11,7 @@ I'm an IT professional with over 10+ years of experience in IT support, IT infra
 - [Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=BFCPSALE24)
 
 ## 📫 How to reach me
-- [My LinkedIn](https://www.linkedin.com/in/islamostafa/)
+- [LinkedIn](https://www.linkedin.com/in/islamostafa/)
 
 
 ## 📊 GitHub Stats
