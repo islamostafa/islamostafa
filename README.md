@@ -6,7 +6,7 @@ I'm an IT professional with over 10+ years of experience in IT support, IT infra
 - [The Best Seller Products](https://www.thebestsellerproducts.com/)
 
 
-## 🌱 I'm currently learning
+## 🎓 Education and Completed Courses
 - [MSc Computer Science with The University of Liverpool](https://online.liverpool.ac.uk/programmes/msc-computer-science/)
 - [Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=BFCPSALE24)
 - [Java Programming I & Java Programming II from The University of Helsinki](https://java-programming.mooc.fi/)
