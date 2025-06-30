@@ -14,7 +14,7 @@ I'm an IT professional with over 10+ years of experience in IT support, IT infra
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/islamostafa/) - Let's connect professionally
-- [GitHub](https://github.com/YourGitHubUsername) - Check out my projects and contributions
+- [GitHub](https://github.com/islamostafa) - Check out my projects and contributions
 - [Email](mailto:islam.maim@gmail.com) - Reach out for collaborations or inquiries
 
 
