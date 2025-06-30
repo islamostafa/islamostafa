@@ -1,6 +1,8 @@
-# Hello, I'm Islam Mostafa 👋
+# Islam Mostafa
+Software Engineer | MSc Computer Science
 
-I'm an IT professional with over 10+ years of experience in IT support, IT infrastructure, and cloud computing. I hold MCSE and CCNA certifications, along with several other Microsoft certificates. Passionate about software engineering, I'm currently expanding my skills in Java development and pursuing an MSc in Computer Science at the University of Liverpool.  With years of hands-on experience in the IT industry, I've developed a strong foundation in technical problem-solving and system management.
+Currently an IT Support Escalation Engineer at Amazon, transitioning into software engineering. Completed MSc in Computer Science from the University of Liverpool with focus on Java development. Combining 10+ years of IT experience with modern software development practices to build reliable, scalable solutions.
+
 
 ## 🔭 Projects 
 - [The Best Seller Products](https://www.thebestsellerproducts.com/)
