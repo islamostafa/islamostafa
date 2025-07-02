@@ -15,7 +15,7 @@ Currently an IT Support Escalation Engineer at Amazon, transitioning into softwa
 - [Java Programming I & Java Programming II from The University of Helsinki](https://java-programming.mooc.fi/)
 
 ## 📫 Repositories
-- [GitHub](https://github.com/islamostafa?tab=repositories)) - Check out my projects and contributions
+- [My Repositories](https://github.com/islamostafa?tab=repositories) - Check out my projects and contributions
 
 ## 📫 Connect with Me
 
