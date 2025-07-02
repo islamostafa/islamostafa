@@ -14,7 +14,7 @@ Currently an IT Support Escalation Engineer at Amazon, transitioning into softwa
 - [Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=BFCPSALE24)
 - [Java Programming I & Java Programming II from The University of Helsinki](https://java-programming.mooc.fi/)
 
-## 📫 Repositories
+## 📚  Repositories
 - [My Repositories](https://github.com/islamostafa?tab=repositories) - Check out my projects and contributions
 
 ## 📫 Connect with Me
