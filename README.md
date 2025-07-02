@@ -14,11 +14,14 @@ Currently an IT Support Escalation Engineer at Amazon, transitioning into softwa
 - [Java Masterclass](https://www.udemy.com/course/java-the-complete-java-developer-course/?couponCode=BFCPSALE24)
 - [Java Programming I & Java Programming II from The University of Helsinki](https://java-programming.mooc.fi/)
 
+## 📫 Repositories
+- [GitHub](https://github.com/islamostafa](https://github.com/islamostafa?tab=repositories)) - Check out my projects and contributions
+
 ## 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/islamostafa/) - Let's connect professionally
-- [GitHub](https://github.com/islamostafa](https://github.com/islamostafa?tab=repositories)) - Check out my projects and contributions
 - [Email](mailto:islam.maim@gmail.com) - Reach out for collaborations or inquiries
+
 
 
 Feel free to connect or reach out for professional opportunities, collaborations, or discussions about technology and software development.
