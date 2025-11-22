@@ -15,6 +15,7 @@ Currently an IT Support Escalation Engineer at Amazon, transitioning into softwa
 - [Java Programming I & Java Programming II from The University of Helsinki](https://java-programming.mooc.fi/)
 - [MCSA: Windows Server 2012 - Certified 2016](https://www.credly.com/badges/c011412d-b828-43d8-a472-3ef29b1b9887/public_url)
 - [Exam 417: Upgrading Your Skills to MCSA Windows Server 2012](https://www.credly.com/badges/911b7a42-d2b0-420c-8d59-8babc22445fc/public_url)
+- [Cisco Certified Network Associate Routing and Switching (CCNA Routing and Switching)](https://www.credly.com/badges/6303c66e-3650-486c-a028-db11fc47e7c8/public_url)
 
  
 ## 📦  Repositories
