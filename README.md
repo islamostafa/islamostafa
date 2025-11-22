@@ -6,7 +6,7 @@ Currently an IT Support Escalation Engineer at Amazon, transitioning into softwa
 
 
 ## 🔭 Projects 
-- [The Best Seller Products](https://www.thebestsellerproducts.com/)
+- Coming soon
 
 
 ## 🎓 Education and Completed Courses
