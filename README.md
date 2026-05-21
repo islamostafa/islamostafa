@@ -6,7 +6,9 @@ Currently an IT Support Escalation Engineer at Amazon, transitioning into softwa
 
 
 ## 🔭 Projects 
-- Coming soon
+ ### ReplyQuicker
+> ReplyQuicker is an AI-powered Chrome extension that enables business owners to reply to Google reviews in one click. The product was built from scratch over approximately 10 days and is now live on the Chrome Web Store with real users.
+https://replyquicker.com/
 
 
 ## 🎓 Education and Completed Courses
