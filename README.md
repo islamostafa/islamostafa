@@ -2,7 +2,7 @@
 Aspiring Software Engineer | MSc Computer Science
 
 
-Currently an IT Support Escalation Engineer at Amazon, transitioning into software engineering. Completed MSc in Computer Science from the University of Liverpool with focus on Java development. Combining 10+ years of IT experience with modern software development practices to build reliable, scalable solutions.
+Currently an IT Support Escalation Engineer at Amazon, transitioning into software engineering. Completed MSc in Computer Science from the University of Liverpool with focus on Java development. Combining 20+ years of IT experience with modern software development practices to build reliable, scalable solutions.
 
 
 ## 🔭 Projects 
