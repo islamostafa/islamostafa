@@ -14,6 +14,13 @@ https://overto.cloud/
 > ReplyQuicker is an AI-powered Chrome extension that enables business owners to reply to Google reviews in one click. The product was built from scratch over approximately 10 days and is now live on the Chrome Web Store with real users.
 https://replyquicker.com/
 
+### CRM Data Scrubber
+> CRM Data Scrubber is a 100% client-side CSV cleaner for CRM imports. It fixes names,
+emails, phones and duplicates, and flags records that would overwrite existing CRM data
+before you import. Files never leave the browser, so no data is uploaded to a server.
+Free up to 250 rows, $9 lifetime Pro. Built with vanilla JavaScript, PapaParse,
+Cloudflare Pages and a Cloudflare Worker for license issuance.
+https://crmdatascrubber.com/
 
 ## 🎓 Education and Completed Courses
 - [MSc Computer Science with The University of Liverpool](https://online.liverpool.ac.uk/programmes/msc-computer-science/)
