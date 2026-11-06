@@ -20,7 +20,7 @@ emails, phones and duplicates, and flags records that would overwrite existing C
 before you import. Files never leave the browser, so no data is uploaded to a server.
 Free up to 250 rows, $9 lifetime Pro. Built with vanilla JavaScript, PapaParse,
 Cloudflare Pages and a Cloudflare Worker for license issuance.
-[CRM Data Scrubber](https://crmdatascrubber.com/)
+https://crmdatascrubber.com/
 
 ## 🎓 Education and Completed Courses
 - [MSc Computer Science with The University of Liverpool](https://online.liverpool.ac.uk/programmes/msc-computer-science/)
